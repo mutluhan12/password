@@ -1,0 +1,14 @@
+c:\users\mutluhan\downloads\documents\visual studio 2015\Projects\cgl\cgl\bin\Debug\cgl.exe.config
+c:\users\mutluhan\downloads\documents\visual studio 2015\Projects\cgl\cgl\bin\Debug\cgl.exe
+c:\users\mutluhan\downloads\documents\visual studio 2015\Projects\cgl\cgl\bin\Debug\cgl.pdb
+c:\users\mutluhan\downloads\documents\visual studio 2015\Projects\cgl\cgl\obj\Debug\cgl.csprojResolveAssemblyReference.cache
+c:\users\mutluhan\downloads\documents\visual studio 2015\Projects\cgl\cgl\obj\Debug\cgl.Properties.Resources.resources
+c:\users\mutluhan\downloads\documents\visual studio 2015\Projects\cgl\cgl\obj\Debug\cgl.csproj.GenerateResource.Cache
+c:\users\mutluhan\downloads\documents\visual studio 2015\Projects\cgl\cgl\obj\Debug\cgl.exe
+c:\users\mutluhan\downloads\documents\visual studio 2015\Projects\cgl\cgl\obj\Debug\cgl.pdb
+c:\users\mutluhan\downloads\documents\visual studio 2015\Projects\cgl\cgl\obj\Debug\cgl.Form1.resources
+c:\users\mutluhan\downloads\documents\visual studio 2015\Projects\cgl\cgl\obj\Debug\cgl.Form2.resources
+C:\Users\mutluhan\downloads\documents\visual studio 2015\Projects\cgl\cgl\bin\Debug\cgl.exe.manifest
+C:\Users\mutluhan\downloads\documents\visual studio 2015\Projects\cgl\cgl\bin\Debug\cgl.application
+C:\Users\mutluhan\downloads\documents\visual studio 2015\Projects\cgl\cgl\obj\Debug\cgl.exe.manifest
+C:\Users\mutluhan\downloads\documents\visual studio 2015\Projects\cgl\cgl\obj\Debug\cgl.application
